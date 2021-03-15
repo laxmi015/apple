@@ -1,0 +1,31 @@
+body:hover{
+    cursor: pointer;
+}
+#navbar>a:hover{
+    color: white;
+}
+#link a:hover{
+    text-decoration: underline;
+}
+
+#third a:hover{
+    text-decoration: underline;
+}
+#second_box a:hover{
+    text-decoration: underline;
+}
+.container a:hover{
+    text-decoration: underline;
+}
+.container2 a:hover{
+    text-decoration: underline;
+}
+.container3 a:hover{
+    text-decoration: underline;
+}
+#box1 p:hover{
+    text-decoration: underline;
+}
+#box2 a:hover{
+    text-decoration: underline;
+}
